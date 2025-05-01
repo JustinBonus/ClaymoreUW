@@ -1,5 +1,36 @@
 # ClaymoreUW
-## Claymore for Engineering Projects - Multi-GPU Material Point Method 
+## Claymore for Engineering - Multi-GPU Material Point Method 
+
+#
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/NHERI-SimCenter/HydroUQ/#gh-light-mode-only"><img width=256px src="./icons/HydroUQ_Icon_Black_BorderRight.svg#gh-light-mode-only" align="left" /></a>
+  <a href="https://github.com/NHERI-SimCenter/HydroUQ/#gh-dark-mode-only"><img width=256px src="./icons/HydroUQ_Icon_White_BorderRight.svg#gh-dark-mode-only" align="left" /></a>
+  <span style="display:inline-block; width: 25px;"></span>
+  <div>
+    <p>
+      <h3 class="subtitle"><b>ClaymoreUW - Engineering Tool</b></h3>
+      <h3>Claymore for Engineering - Multi-GPU Material Point Method</h3>
+      <h5><i>Justin Bonus and Pedro Arduino</i></h5>
+      <h5>Arduino Geomechanics and NHERI SimCenter, 2021-2025</h5>
+      <br>
+    </p>
+  </div>
+</div>
+
+---
+
+[![Latest Release](https://img.shields.io/github/v/release/NHERI-SimCenter/HydroUQ?color=blue&label=Latest%20Release)](https://github.com/NHERI-SimCenter/HydroUQ/releases/latest)   <span style="display:inline-block; width: 20px;"></span> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10902090.svg)](https://doi.org/10.5281/zenodo.10902090)   <span style="display:inline-block; width: 20px;"></span> [![Build status](https://ci.appveyor.com/api/projects/status/k1cfrfmjsq14akso?svg=true)](https://ci.appveyor.com/project/fmckenna/hydrouq)  <span style="display:inline-block; width: 20px;"></span> [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue)](https://raw.githubusercontent.com/NHERI-SimCenter/HydroUQ/master/LICENSE)  <span style="display:inline-block; width: 20px;"></span> [![GitHub](https://img.shields.io/badge/NHERI--SimCenter-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NHERI-SimCenter)  <span style="display:inline-block; width: 20px;"></span>  [![LinkedIn Follow](https://img.shields.io/badge/nheri--simcenter-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nheri-simcenter) <span style="display:inline-block; width: 20px;"></span>  [![YouTube Subscribe](https://img.shields.io/badge/DesignSafe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DesignSafe) <span style="display:inline-block; width: 20px;"></span>  
+
+---
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/JustinBonus/HydroUQ/images/NHERI_SimCenter_DamBreakAnimation_VelocityPressureVisualized_2.5MParticles_res0.05m_23012023.gif" alt="Dam Break Animation" width="45%" />
+    <img src="https://github.com/JustinBonus/HydroUQ/images/HydroUQ_MPM_3DViewPort_OSULWF_2024.04.25.gif" alt="HydroUQ MPM 3D ViewPort OSULWF" width="53%" />
+</div>
+
+---
+
 
 Authors:
 [Justin Bonus](https://github.com/JustinBonus)\, 
