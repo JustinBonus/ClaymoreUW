@@ -4,8 +4,8 @@
 #
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/NHERI-SimCenter/HydroUQ/#gh-light-mode-only"><img width=256px src="https://github.com/NHERI-SimCenter/HydroUQ/icons/HydroUQ_Icon_Black_BorderRight.svg#gh-light-mode-only" align="left" /></a>
-  <a href="https://github.com/NHERI-SimCenter/HydroUQ/#gh-dark-mode-only"><img width=256px src="https://github.com/NHERI-SimCenter/HydroUQ/icons/HydroUQ_Icon_White_BorderRight.svg#gh-dark-mode-only" align="left" /></a>
+  <a href="https://github.com/NHERI-SimCenter/HydroUQ/#gh-light-mode-only"><img width=256px src="./icons/HydroUQ_Icon_Black_BorderRight.svg#gh-light-mode-only" align="left" /></a>
+  <a href="https://github.com/NHERI-SimCenter/HydroUQ/#gh-dark-mode-only"><img width=256px src="./icons/HydroUQ_Icon_White_BorderRight.svg#gh-dark-mode-only" align="left" /></a>
   <span style="display:inline-block; width: 25px;"></span>
   <div>
     <p>
@@ -25,8 +25,8 @@
 ---
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/JustinBonus/HydroUQ/images/NHERI_SimCenter_DamBreakAnimation_VelocityPressureVisualized_2.5MParticles_res0.05m_23012023.gif" alt="Dam Break Animation" width="45%" />
-    <img src="https://github.com/JustinBonus/HydroUQ/images/HydroUQ_MPM_3DViewPort_OSULWF_2024.04.25.gif" alt="HydroUQ MPM 3D ViewPort OSULWF" width="53%" />
+    <img src="./images/NHERI_SimCenter_DamBreakAnimation_VelocityPressureVisualized_2.5MParticles_res0.05m_23012023.gif" alt="Dam Break Animation" width="45%" />
+    <img src="./images/HydroUQ_MPM_3DViewPort_OSULWF_2024.04.25.gif" alt="HydroUQ MPM 3D ViewPort OSULWF" width="53%" />
 </div>
 
 ---
